@@ -1,8 +1,11 @@
 # HelloWorldLab
 ## About
-HelloWorldLab is an Android app that shows a "Hello World" message, takes the user's name, and says "hi" to the user's name afterwards.
-![screenshot of app at initial state](./images/hi.PNG)
+HelloWorldLab is an Android app that shows a "Hello World" message, takes the user's name, and says "hi" to the user using their name afterwards.
 
+## Screenshots
+*Before:*
+![screenshot of app at initial state](./images/hi.PNG)
+*After:*
 ![screenshot of app after entering in name](./images/foobar.PNG)
 
 ## Getting started
